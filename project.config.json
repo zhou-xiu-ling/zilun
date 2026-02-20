@@ -27,7 +27,7 @@
     "useCompilerPlugins": false
   },
   "compileType": "game",
-  "libVersion": "3.14.2",
+  "libVersion": "latest",
   "appid": "wxdb10e7c2a1bc3b58",
   "projectname": "quickstart",
   "condition": {
@@ -44,7 +44,7 @@
       "list": []
     },
     "miniprogram": {
-      "current": ,
+      "current":-1 ,
       "list": []
     }
   },

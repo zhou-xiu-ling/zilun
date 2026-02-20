@@ -30,7 +30,7 @@ export default class Enemy extends Animation {
 
   // 预定义爆炸的帧动画
   initExplosionAnimation() {
-    const EXPLO_FRAME_COUNT = 1;
+    const EXPLO_FRAME_COUNT = 19;
     const frames = Array.from(
       { length: EXPLO_FRAME_COUNT },
       (_, i) => `${EXPLO_IMG_PREFIX}${i + 1}.png`
