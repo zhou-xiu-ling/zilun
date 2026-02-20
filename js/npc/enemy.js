@@ -2,7 +2,7 @@ import Animation from '../base/animation';
 import { SCREEN_WIDTH, SCREEN_HEIGHT } from '../render';
 
 const ENEMY_IMG_SRC = 'images/enemy.png';
-const ENEMY_WIDTH = 60;
+const ENEMY_WIDTH = 6;
 const ENEMY_HEIGHT = 60;
 const EXPLO_IMG_PREFIX = 'images/explosion';
 
